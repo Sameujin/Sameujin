@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sameujin
-- 👀 I’m interested in ...Frontend Development
+- 👀 I’m interested in ...Java Fullstack Development.
 - 🌱 I’m currently learning ...Full stack Development
 - ⚡ Fun fact: ...Eat|sleep|code...........................
 
